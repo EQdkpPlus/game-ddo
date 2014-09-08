@@ -46,9 +46,10 @@ $english_array = array(
 		'uc_female'						=> 'Female',
 		'uc_guild'						=> 'Guild',
 		'uc_class_path'					=> 'Class Path',
+		'uc_race'						=> 'Race',
+		'uc_class'						=> 'Class',
 		
 		// Class Information
-		
 		'uc_path_0' => '-',
 		'uc_path_1' => 'Angel of Vengeance',
 		'uc_path_2' => 'Arcane Archer',
