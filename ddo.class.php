@@ -94,7 +94,7 @@ if(!class_exists('ddo')) {
 		protected $lang_file	= array();
 		protected $path			= '';
 		public $lang			= false;
-		public $version			= '0.1';
+		public $version			= '1.0.0';
 
 		public function profilefields(){
 			$xml_fields = array(
